@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Delta rs","text":"<p>A Change Data Capture (CDC) Framework for Rust.</p> <p>(Coming soon!)</p>"}]}
